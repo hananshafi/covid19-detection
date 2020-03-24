@@ -13,6 +13,9 @@ VGG16 model was utilized as base model, the layers were freezed and on top of it
 
 ![ROC curve of model](https://github.com/hananshafi/covid19-detection/blob/master/covid-roc.png)
 
+![Confusion matrix](https://github.com/hananshafi/covid19-detection/blob/master/cmatrix.JPG)
+
+
 # Here is the the result of model on one of the samples:
 
 ![X-Ray of COVID-19 Positive patient](https://github.com/hananshafi/covid19-detection/blob/master/covid-19.JPG)
