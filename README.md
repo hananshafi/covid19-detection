@@ -13,4 +13,4 @@ VGG16 model was utilized as base model, the layers were freezed and on top of it
 
 # Here is the the result of model on one of the samples:
 
-![X-Ray of COVID-19 Positive patient](https://mail.google.com/mail/u/0/#drafts?projector=1)
+![X-Ray of COVID-19 Positive patient](https://github.com/hananshafi/covid19-detection/blob/master/covid-19.JPG)
