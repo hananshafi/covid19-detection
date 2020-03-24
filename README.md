@@ -5,6 +5,7 @@ This code is for predicting COVID-19 from chest Xrays. The model currently has 9
 # Dataset
 The dataset was collected from many sources. Currently this git repo is maintaining the COVID-19 Xray dataset:
 https://github.com/ieee8023/covid-chestxray-dataset
+
 Dataset was divided into 2 classes: COVID-19 and Other.
 
 # Model Statistics and Accuracy
@@ -12,4 +13,4 @@ VGG16 model was utilized as base model, the layers were freezed and on top of it
 
 # Here is the the result of model on one of the samples:
 
-![X-Ray of COVID-19 Positive patient](C:/Users/DELL/Documents/covid.jpg)
+![X-Ray of COVID-19 Positive patient](https://mail.google.com/mail/u/0/#drafts?projector=1)
