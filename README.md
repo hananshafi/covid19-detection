@@ -6,7 +6,7 @@ This code is for predicting COVID-19 from chest Xrays. The model currently has 9
 The dataset was collected from many sources. Currently this git repo is maintaining the COVID-19 Xray dataset:
 https://github.com/ieee8023/covid-chestxray-dataset
 
-Dataset was divided into 2 classes: COVID-19 and Other.
+Dataset was divided into 2 classes: COVID-19 and Other (Pneumonia Viral,Pneumonia Viral and normal)
 
 ![Sample dataset](https://github.com/hananshafi/covid19-detection/blob/master/sample_images.JPG)
 
