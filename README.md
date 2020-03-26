@@ -9,9 +9,11 @@ https://github.com/ieee8023/covid-chestxray-dataset
 Dataset was divided into 2 classes: COVID-19 and Other.
 
 # Model Statistics and Accuracy
-VGG16 model was utilized as base model, the layers were freezed and on top of it some more layers were added. The model was trained on 370 samples of data and tested on 36 samples. The testing accuracy currently reported is 95%.
+VGG16 model was utilized as base model, the layers were freezed and on top of it some more layers were added. The model was trained on 318 samples of data and tested on 48 samples. The testing accuracy currently reported is 95%.
 
 ![ROC curve of model](https://github.com/hananshafi/covid19-detection/blob/master/covid-roc.png)
+
+![Classification Report](https://github.com/hananshafi/covid19-detection/blob/master/cls_report.JPG)
 
 ![Confusion matrix](https://github.com/hananshafi/covid19-detection/blob/master/cmatrix.JPG)
 
